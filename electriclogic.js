@@ -31,7 +31,7 @@ let ready = electricity && powerSwitch && outlet && plug;
 let unPaid = electricity; 
 
 // 3. Old people just don't understand electronics.  Fill in the variable oldPeople to be equal to powerSwitch AND the opposite of powerSwitch
-nig
+
 let oldPeople = powerSwitch && outlet ;
 
 // 4. You are unsure if your device is plugged in or turned on.  Set the variable unsure to the OPPOSITE of POWERSWITCH AND the group - aka parentheses - of the OPPOSITE of PLUG OR the OPPOSITE of OUTLET.
@@ -53,7 +53,7 @@ let broken = outlet;
 */
 
 function reportResults(){
-    const message =
+    const message = 
         `
         The variable outlet: ${outlet},
         The variable electricty: ${electricity},

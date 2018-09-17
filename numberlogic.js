@@ -1,8 +1,8 @@
 //Create three numbers x, y, and z.  Set them equal to some random number of your choosing.
 
-let x;
-let y;
-let z;
+let x = 9;
+let y = 5;
+let z = 1;
 
 /*
 *
@@ -12,15 +12,15 @@ let z;
 
 //just using x
 let positiveX = (x > 0);
-let negativeX;
+let negativeX = (x < 0;
 
 //using all 3 variables
-let allPositive;
-let allNegative;
+let allPositive = (y < x);
+let allNegative = (y > x;
 
 //using all 3 variables
-let atLeastOnePositive;
-let atLeastOneNegative;
+let atLeastOnePositive = (z < x) ;
+let atLeastOneNegative = (z < x;
 
 
 /*
