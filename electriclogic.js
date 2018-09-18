@@ -1,8 +1,8 @@
 //Initialize the variables below to what you want: either true or false.
-let outlet = True;
-let electricity = False;
-let plug = False;
-let powerSwitch = True;
+let outlet = false;
+let electricity = false;
+let plug = true;
+let powerSwitch = true;
 
 
 
